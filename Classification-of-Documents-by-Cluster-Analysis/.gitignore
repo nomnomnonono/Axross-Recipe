@@ -1,0 +1,8 @@
+.venv/
+*.ipynb
+__pycache__/
+*.tar.gz
+text/*
+!text/.gitkeep
+.DS_Store
+*.png
