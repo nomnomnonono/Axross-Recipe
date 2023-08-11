@@ -3,3 +3,4 @@
 
 ## Recipes
 - Classification-of-Documents-by-Cluster-Analysis
+- Ambiguous-Search-of-Documents

@@ -1,0 +1,11 @@
+.venv/
+*.ipynb
+__pycache__/
+text/*
+!text/.gitkeep
+*.tar.gz
+.DS_Store
+*.bin
+*.bin.gz
+*.model
+*.npy

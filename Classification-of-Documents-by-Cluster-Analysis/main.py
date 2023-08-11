@@ -106,5 +106,4 @@ if __name__ == "__main__":
         help="list of article categories",
     )
     args = parser.parse_args()
-    print(type(args))
     main(args)
